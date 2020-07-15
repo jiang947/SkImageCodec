@@ -1,0 +1,4 @@
+include ':sample'
+include ':library'
+//include ':app'
+rootProject.name = "SkiaCodec"
